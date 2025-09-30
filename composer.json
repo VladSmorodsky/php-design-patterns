@@ -1,0 +1,9 @@
+{
+    "name": "vsmorodskyi/php-design-patterns",
+    "autoload": {
+        "psr-4": {
+            "PhpDesignPatterns\\": "src/"
+        }
+    },
+    "require": {}
+}
